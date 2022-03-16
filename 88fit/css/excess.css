@@ -1,0 +1,380 @@
+@media only screen and (max-width: 1400px){
+    div .download .img1{
+        height: 12mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: 13mm;
+        margin-top: 10px;
+       
+    }
+   div .download .img2{
+     height: 28mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: 13mm;
+    margin-top: 38px;
+    }
+    div .godownbtn{
+        margin-left: 10mm;
+  
+        width: 100px;
+        height: 90px;
+        margin-top: 130px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .download .img1{
+        height: 12mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: 13mm;
+        margin-top: 20px;
+       
+    }
+    .download .img2{
+     height: 26mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: 13mm;
+    margin-top: 38px;
+    }
+    .godownbtn{
+        margin-left: 10mm;
+  
+        width: 100px;
+        height: 90px;
+        top: 580px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+
+    div .topcontent{
+        font-size: 50px;
+    }
+    div .topcontent1{
+        font-size: 50px;
+    }
+    .list1 svg{
+   
+        width: 10mm;
+        height: 7mm;
+        
+       }
+       .list svg{
+        width: 10mm;
+        height: 7mm;
+        
+       
+       }
+       .btn4{
+
+        width: 45mm;
+        height: 14mm;
+   
+       }
+      div .card1{
+        border-radius: 6mm;
+        width: 90mm;  
+    }
+    div .card1 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div .card2{
+        border-radius: 6mm;
+        width: 89.5mm;
+      
+        
+    }
+    div .card2 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div .card3{
+        border-radius: 8mm;
+        width: 89.5mm;
+        margin-top: -1mm;
+    }
+    div .card3 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89mm;
+    }
+    div .card4{
+        border-radius: 6mm;
+        width: 90mm;
+        margin-top: 5mm;
+        
+      
+    }
+    div .card4 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+        
+        
+    }
+    div .card5{
+        border-radius: 6mm;
+        width: 90mm;
+        margin-top: 5mm;
+    }
+    div .card5 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div  .card6{
+        border-radius: 6mm;
+        width: 90mm;
+        margin-top: 5mm;
+        
+    }
+    div  .card6 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div  .cardwave1{
+        margin-top: -20mm;
+        height: 25mm; 
+    }
+    div .cardwave2{
+        margin-top: -10mm;
+    }
+    div .card-title{
+        font-weight: 700;
+        font-size: 4.7mm;
+        font-family: sans-serif;
+    }
+    div .card-title1{
+        font-weight: 700;
+        font-size: 4.5mm;
+        font-family: sans-serif;
+    }
+    div  .card-title2{
+        font-weight: 700;
+        font-size: 5mm;
+        font-family: sans-serif;
+    }
+    div .card-text{
+        font-family: sans-serif;
+        font-size: 4.7mm;
+        opacity: 0.6;
+    }
+    div .card-text2{
+        font-family: sans-serif;
+        font-size: 4mm;
+        opacity: 0.6;
+    }
+    div  #timer{
+        height: 6.5mm;
+        width: 10mm;
+    }
+    div  #timelevel{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 37mm;
+    }
+    div #timelevel1{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 37mm;
+    }
+    div .cardfinish{
+        margin-top: -3mm;
+    }
+    .cardgap{
+        margin-left: 40px;
+    }
+
+    /*slider*/
+#last{
+    margin-top: -10mm;
+    margin-left: 45mm;
+}
+div .card11{
+    border-radius: 6mm;
+    width: 90mm;
+ 
+}
+div .card11 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card-title12{
+    font-size: 4mm;
+}
+
+div .card22{
+    border-radius: 6mm;
+    width: 90mm;
+    height: 112mm;
+    
+}
+div .card22 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card33{
+    border-radius: 6mm;
+    width: 90mm;
+    
+}
+div .card33 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card44{
+    border-radius: 6mm;
+    width: 90mm;
+  
+}
+div .card44 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card55{
+    border-radius: 6mm;
+    width: 90mm;
+   
+}
+div .card55 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card66{
+    border-radius: 6mm;
+    width: 90mm;
+   
+}
+div .card66 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card-title12{
+    font-weight: 900;
+    font-size: 6.5mm;
+}
+div #timelevel7{
+    background-color: rgb(166, 211, 230);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel6{
+    background-color: rgb(236, 191, 183);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel5{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel4{
+    background-color: rgb(154, 208, 231);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel3{
+    background-color: rgb(150, 203, 226);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+ #timelevel2{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+/*slider*/
+ .footericons svg{
+           height: 80px;
+           width: 40px;
+           margin-left: 20mm;
+       }
+       .text-center img{
+           margin-left: 12mm;
+           margin-top: 5mm;
+       }
+       .footer-logo img{
+           
+           height: 10mm;
+           width: 20mm;
+       }
+      div .btn5{
+           margin-left: -20px;
+       }
+      div .btn7{
+        margin-left: -30px;
+       }
+
+}

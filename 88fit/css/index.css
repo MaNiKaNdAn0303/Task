@@ -1,0 +1,3092 @@
+body{
+    margin: 1mm;
+    padding: 1mm;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.firstpage{
+    background-image: url("/Assests/header-background-desktop.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+div .row{
+    margin-right: calc(var(--bs-gutter-x) * -.3); 
+    margin-left: calc(var(--bs-gutter-x) * -.3);
+}
+.navbar .navbar-brand img{
+    height: 80px;
+    margin-top: -5px;
+    font-weight: 700;
+}
+#navbar-example2{
+    background-color: #f3f1f1;
+    height: 80px;
+    opacity: 0.8;
+    
+}
+
+ .offcanvas-body .navbar-nav .nav-item a
+   {
+    color: #000;
+    font-weight: 700;
+    padding: 7px 15px;
+    font-size: 4px;
+    margin-top: 2mm;
+   }
+    .offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link:hover 
+    {
+      color: rgb(0, 0, 0);  
+   }
+   #global{
+       margin-left: 3mm;
+   }
+ 
+   .btn1{
+       background-color: rgb(240, 240, 240);
+       border-radius: 30px;
+       width: 140px;
+       height: 13mm;
+       border: none;
+       border: 0.2mm solid rgb(143, 142, 142);
+   }
+   .btn1:hover{
+       background-color: rgb(211, 211, 211);
+   }
+   .btn2{
+    background-color: rgb(68, 189, 104);
+    border-radius: 140px;
+    width: 50mm;
+    height: 13.6mm;
+    border: none;
+   }
+   .btn2:hover{
+    background-color: rgb(15, 133, 60);
+   }
+   .btn3{
+       background-color: black;
+       width: 38px;
+       height: 8mm;
+       margin-left: 3mm;
+      
+   }
+   #language{
+       border-color: black;
+   }
+   .dropdown-item:hover{
+background-color: rgba(50, 94, 216, 0.945);
+color: whitesmoke;
+   }
+
+.collapse .navbar-nav .nav-item .nav-link{
+    color: #000;
+    font-weight: 700;
+    padding: 7px 15px;
+    font-size: 4.5mm;
+    margin-top: 2mm;
+    
+}
+
+/*first page*/
+#topbg{
+    margin-top: -10px;
+}
+#ratings{
+    margin-top: -10px;
+}
+
+ /*1st page*/
+ .gotopbtn{
+    position: fixed;
+    width: 100px;
+    height: 96px;
+    background: #f3f1f1;
+    opacity: 0.8;
+    bottom: 35px;
+    
+    right: 60px;
+    border-radius: 10mm;
+    color: rgb(17, 15, 15);
+    text-decoration: none;
+    line-height: 88px;
+    text-align: center;
+}
+.gotopbtn:hover{
+    color: rgb(14, 11, 11);
+}
+.gotopbtn svg{
+    height: 12mm;
+    width: 20mm;
+   
+}
+/* .godown .godownbtn{
+ position: absolute;
+ width: 100px;
+ height: 96px;
+ background: #f0eaea;
+ opacity: 0.7;
+ top: 570px;
+ left: 600px;
+ border-radius: 0mm;
+ color: rgb(56, 54, 54);
+ text-decoration: none;
+ line-height: 88px;
+ text-align: center;
+}
+.godownbtn:hover{
+ color: rgb(14, 11, 11);
+}
+.godownbtn svg{
+ height: 7mm;
+ width: 20mm;
+
+} */
+.download .img1{
+    height: 11mm;
+    width: 40mm;
+    position: absolute;
+    margin-left: 7mm;
+margin-top: 8px;
+   
+}
+.download .img2{
+ height: 25mm;
+ width: 41mm;
+ position: absolute;
+margin-left: 7mm;
+margin-top: 20px;
+}
+
+
+#topbg img{
+ height: 19mm;
+}
+#topbg .rewa{
+
+ color: rgb(55, 177, 116);
+ font-size: 3mm;
+ margin-top: 3mm;
+}
+#topbg svg{
+ height: 3.5mm;
+}
+
+#ratings svg{
+ height: 3.5mm;
+}
+#ratings img{
+ height: 19mm;
+}
+#ratings .rate{
+
+ color: rgb(55, 177, 116);
+ font-size: 3mm;
+ margin-top: 3mm;
+}
+div .topcontent{
+    font-weight: 900;
+    font-size: 13.5mm;
+    color: rgb(34, 32, 32);
+    font-family: sans-serif;
+}
+div .topcontent1{
+ 
+    font-weight: 900;
+    font-size: 13.5mm;
+    margin-top: -24px;
+    color: rgb(34, 32, 32);
+    font-family: sans-serif;
+}
+.list1{
+    margin-top: -9.5mm;
+}
+.list1 svg{
+ color: rgb(32, 192, 32);
+ width: 10mm;
+ height: 7mm;
+ 
+}
+.list svg{
+ color: rgb(32, 192, 32);
+ width: 10mm;
+ height: 7mm;
+
+}
+.btn4{
+ background-color: rgb(90, 214, 127);
+ border-radius: 10mm;
+ width: 50mm;
+ height: 13.6mm;
+ border: none;
+ margin-top: 5mm;
+ font-weight: 600;
+
+}
+.btn4:hover{
+ background-color: rgb(15, 133, 60);
+}
+  
+ /*second page*/
+ .second{
+    position: absolute;
+   }
+#secondtitle1{
+       font-weight: 800;
+       font-size: 25px;
+       margin-top: 30mm;
+       text-align: center;
+   }
+   .secondtitle1{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+}
+.content{
+    font-weight: 400;
+    margin-top: -2mm;
+    text-align: center;
+}
+
+/*cards*/
+.card1{
+    border-radius: 6mm;
+    width: 90mm;  
+}
+.card1 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+/*cards*/
+
+.btn5{
+    background-color: rgb(90, 214, 127);
+    border-radius: 10mm;
+    width: 45mm;
+    height: 13.6mm;
+    border: none;
+    
+    margin-top: 10mm;
+    color: whitesmoke;
+    font-weight: 600;
+   }
+   .btn5:hover{
+    background-color: rgb(15, 133, 60);
+   }
+   /*second page*/
+
+   /*fourth page*/
+
+.successstories{
+    height: 180mm;
+    width: 150mm;   
+}
+.banner{
+    margin-top: 50px;
+}
+.storyhead{
+    font-weight: 700;
+    font-size: 10mm;
+  
+}
+
+#story1{
+    font-size: 5mm;
+
+    margin-top: 10mm;
+    font-weight: 500;
+}
+#story2{
+    font-size: 5mm;
+
+    margin-top:-1mm;
+    font-weight: 500;
+    
+}
+#story3{
+    font-size: 5mm;
+    margin-top:-1mm;
+    font-weight: 500;
+}
+.btn6{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10mm;
+    width: 40mm;
+    height: 13.6mm;
+    border-color: rgb(160, 157, 157);
+    margin-top: 15mm;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+   }
+   .btn6:hover{
+    background-color: rgb(237, 238, 237);
+    border: none;
+   }
+/*fourth page*/
+
+
+/*articles page*/
+#timelevel7{
+    background-color: rgb(166, 211, 230);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel6{
+    background-color: rgb(236, 191, 183);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel5{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel4{
+    background-color: rgb(154, 208, 231);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel3{
+    background-color: rgb(150, 203, 226);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel2{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel22{
+    background-color: rgb(243, 239, 239);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm;
+}
+#timer{
+    height: 6.5mm;
+    width: 10mm;
+}
+.cardwave3{
+    margin-top: -20mm;
+    height: 25mm; 
+    fill: #dbd7d7;
+}
+.lastpage{
+    margin-top: -40px;
+}
+.btn7{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10mm;
+    width: 63mm;
+    height: 13.6mm;
+    border-color: rgb(184, 184, 184);
+    margin-top: 15mm;
+    color: rgb(32, 32, 32);
+    font-weight: 700;
+   }
+   .btn7:hover{
+    background-color: rgba(230, 225, 225, 0.685);
+    border: none;
+   }
+/*articles page*/
+
+/*OWL CAROUSEL*/
+
+/*OWL CAROUSEL*/
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+ul{
+    padding-left: 0;
+}
+
+input:focus{
+    outline: none;
+}
+a:hover,
+a:focus{
+    text-decoration: none;
+    outline: none;
+    color: #ffffff;
+}
+
+
+.footer{
+    background: #252525;
+    padding-top: 70px;
+    width: 100%;
+}
+.footer-about{
+    margin-bottom: 30px;
+}
+.footer-about .footer-logo{
+    margin-bottom: 30px;
+}
+.footer-about .footer-logo img{
+    height: 15mm;
+    color: white;
+    margin-top: -1mm;
+
+}
+.footer-about p{
+    color: #b7b7b7;
+    margin-bottom: 30px;
+}
+.footer-widget{
+    margin-bottom: 30px;
+    margin-left: -10mm;
+}
+
+.footer-widget ul li{
+    line-height: 36px;
+    list-style: none;
+}
+.footer-widget ul li a{
+    color: #eeeeee;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+.footer-widget ul li a:hover{
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.footer-copyright{
+    padding: 50px 0;
+    margin-top: 15px;
+    
+}
+.footericons svg{
+    height: 7mm;
+    width: 18.5mm;
+    color: white;
+ 
+}
+.text-center img{
+    height: 30mm;
+    width: 50mm;
+    margin-left: 10mm;
+ 
+}
+
+/*media Queries*/
+
+@media only screen and (min-width: 375px){ /*col*/
+   /* div .download .img1{
+        height: 10mm;
+        width: 30mm;
+        position: absolute;
+        margin-left: -80mm;
+        margin-top: 130px;
+       
+    }
+   div .download .img2{
+     height: 28mm;
+     width: 31mm;
+     position: absolute;
+    margin-left: -23mm;
+    margin-top: 100px;
+    } */
+ div .card{
+     margin-left: 4px;
+ }
+div .btn5{
+    margin-left: -10mm;
+}
+div .btn6{
+    margin-left: 24mm;
+}
+div .btn7{
+    margin-left: -17mm;
+}
+   /* div .godownbtn{
+        margin-left: -120mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 730px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+    div .topcontent{
+        font-size: 35px;
+    }
+    div .topcontent1{
+        font-size: 35px;
+    }
+    .list1 svg{
+   
+        width: 8mm;
+        height: 6mm;
+        
+       }
+       .list svg{
+ 
+        width: 8mm;
+        height: 6mm;
+       
+       }
+
+ .footericons svg{
+           height: 50px;
+           width: 24px;
+           margin-left: 3mm;
+       }
+       .text-center img{
+           margin-left: 5mm;
+       }
+       .footer-logo img{
+           margin-left: -5mm;
+           width: 10mm;
+           height: 10mm;
+       }
+      div .footer-widget li a {
+           font-size: 3.5mm;
+       }
+       .storyhead{
+           margin-top: -4mm;
+           font-size: 8mm;
+           font-weight: 700;
+       }
+        #story1, #story2, #story3{
+           font-size: 4mm;
+       }
+/*slider*/
+div .card11{
+    border-radius: 6mm;
+    width: 75mm;
+ 
+}
+div  .card11 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card-title12{
+    font-size: 4mm;
+}
+
+div .card22{
+    border-radius: 6mm;
+    width: 75mm;
+    height: 101mm;
+    
+}
+div .card22 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div  .card33{
+    border-radius: 6mm;
+    width: 75mm;
+    
+}
+div .card33 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card44{
+    border-radius: 6mm;
+    width: 75mm;
+  
+}
+div .card44 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div  .card55{
+    border-radius: 6mm;
+    width: 75mm;
+   
+}
+div .card55 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card66{
+    border-radius: 6mm;
+    width: 75mm;
+   
+}
+div  .card66 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+.card-title12{
+    font-weight: 900;
+    font-size: 6.5mm;
+}
+div #timelevel7{
+    background-color: rgb(166, 211, 230);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel6{
+    background-color: rgb(236, 191, 183);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel5{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel4{
+    background-color: rgb(154, 208, 231);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel3{
+    background-color: rgb(150, 203, 226);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel2{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel22{
+    background-color: rgb(243, 239, 239);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm;
+}
+div #timer{
+    height: 6.5mm;
+    width: 10mm;
+}
+.cardwave3{
+    margin-top: -20mm;
+    height: 25mm; 
+    fill: #dbd7d7;
+}
+.lastpage{
+    margin-top: -40px;
+}
+div .ft{
+font-size: 4.4mm;
+}
+/*slider*/
+}
+
+
+@media only screen and (max-width: 375px){ /*col*/
+
+    /* div .download .img1{
+        height: 10mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -80mm;
+        margin-top: 150px;
+       
+    }
+    div .download .img2{
+     height: 26.3mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: -27mm;
+    margin-top: 120px;
+    } */
+ div .card{
+     margin-left: 4px;
+ }
+div .btn5{
+    margin-left: -10mm;
+}
+div .btn6{
+    margin-left: 24mm;
+}
+div .btn7{
+    margin-left: -17mm;
+}
+    /* div .godownbtn{
+        margin-left: -120mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 780px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+    div .topcontent{
+        font-size: 35px;
+    }
+    div .topcontent1{
+        font-size: 35px;
+    }
+    .list1 svg{
+   
+        width: 8mm;
+        height: 6mm;
+        
+       }
+       .list svg{
+ 
+        width: 8mm;
+        height: 6mm;
+       
+       }
+
+ .footericons svg{
+           height: 50px;
+           width: 24px;
+           margin-left: 3mm;
+       }
+       .text-center img{
+           margin-left: 5mm;
+       }
+       .footer-logo img{
+           margin-left: -5mm;
+       }
+/*slider*/
+div .card11{
+    border-radius: 6mm;
+    width: 75mm;
+ 
+}
+div  .card11 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card-title12{
+    font-size: 4mm;
+}
+
+div .card22{
+    border-radius: 6mm;
+    width: 75mm;
+    height: 101mm;
+    
+}
+div .card22 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div  .card33{
+    border-radius: 6mm;
+    width: 75mm;
+    
+}
+div .card33 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card44{
+    border-radius: 6mm;
+    width: 75mm;
+  
+}
+div .card44 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div  .card55{
+    border-radius: 6mm;
+    width: 75mm;
+   
+}
+div .card55 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card66{
+    border-radius: 6mm;
+    width: 75mm;
+   
+}
+div  .card66 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+.card-title12{
+    font-weight: 900;
+    font-size: 6.5mm;
+}
+div #timelevel7{
+    background-color: rgb(166, 211, 230);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel6{
+    background-color: rgb(236, 191, 183);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel5{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel4{
+    background-color: rgb(154, 208, 231);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel3{
+    background-color: rgb(150, 203, 226);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel2{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel22{
+    background-color: rgb(243, 239, 239);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm;
+}
+div #timer{
+    height: 6.5mm;
+    width: 10mm;
+}
+.cardwave3{
+    margin-top: -20mm;
+    height: 25mm; 
+    fill: #dbd7d7;
+}
+.lastpage{
+    margin-top: -40px;
+}
+div .ft{
+font-size: 4.4mm;
+}
+/*slider*/
+}
+
+@media only screen and (min-width: 576px){ /*sm*/
+
+    /* div .download .img1{
+        height: 10mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -127mm;
+        margin-top: 100px;
+       
+    }
+   div .download .img2{
+     height: 26mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: -10mm;
+    margin-top: 75px;
+    } */
+    /* div .godownbtn{
+        margin-left: -70mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 720px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+    div .topcontent{
+        font-size: 45px;
+    }
+    div .topcontent1{
+        font-size: 45px;
+    }
+    .list1 svg{
+   
+        width: 10mm;
+        height: 7mm;
+        
+       }
+       .list svg{
+        width: 10mm;
+        height: 7mm;
+        
+       
+       }
+
+       div .card1{
+        border-radius: 6mm;
+        width: 59mm;  
+    }
+      .card1 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 59.4mm;
+    }
+    div .card2{
+        border-radius: 6mm;
+        width: 59mm;   
+    }
+    .card2 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 59.4mm;
+    }
+    div .card3{
+        border-radius: 8mm;
+        width: 59mm;
+        margin-top: -1mm;
+    }
+    .card3 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 59mm;
+    }
+    div .card4{
+        border-radius: 6mm;
+        width: 59mm;
+        margin-top: 5mm;
+        
+      
+    }
+    .card4 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 59.4mm;
+        
+        
+    }
+    div .card5{
+        border-radius: 6mm;
+        width: 59mm;
+        margin-top: 5mm;
+    }
+    .card5 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 59.4mm;
+    }
+    div .card6{
+        border-radius: 6mm;
+        width: 59mm;
+        margin-top: 5mm;
+        
+    }
+    .card6 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 59.4mm;
+    }
+    div .cardwave1{
+        margin-top: -17mm;
+        height: 25mm; 
+    }
+    div .cardwave2{
+        margin-top: -8mm;
+    }
+    .card-title{
+        font-weight: 700;
+        font-size: 4.7mm;
+        font-family: sans-serif;
+    }
+    div .card-title1{
+        font-weight: 700;
+        font-size: 3.3mm;
+        font-family: sans-serif;
+    }
+    div .owll{
+        font-size: 4.5mm;
+    }
+    div .card-title2{
+        font-weight: 700;
+        font-size: 4mm;
+        font-family: sans-serif;
+    }
+    div .card-text{
+        font-family: sans-serif;
+        font-size: 2.9mm;
+        opacity: 0.6;
+    }
+    div .card-text2{
+        font-family: sans-serif;
+        font-size: 4mm;
+        opacity: 0.6;
+    }
+   div #timer{
+        height: 5mm;
+        width: 4mm;
+        margin-left: -4mm;
+    }
+    div #timelevel{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 24mm;
+    }
+    div #timelevel1{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 24mm;
+    }
+    div #timelevel22{
+        background-color: rgb(243, 239, 239);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 24mm;
+    }
+   div .cardfinish{
+        margin-top: -3mm;
+    }
+     /*slider*/
+   div .card11{
+    border-radius: 6mm;
+    width: 75mm;
+ 
+}
+div  .card11 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card-title12{
+    font-size: 4mm;
+}
+
+div .card22{
+    border-radius: 6mm;
+    width: 75mm;
+    height: 101mm;
+    
+}
+div .card22 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div  .card33{
+    border-radius: 6mm;
+    width: 75mm;
+    
+}
+div .card33 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card44{
+    border-radius: 6mm;
+    width: 75mm;
+  
+}
+div .card44 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div  .card55{
+    border-radius: 6mm;
+    width: 75mm;
+   
+}
+div .card55 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+div .card66{
+    border-radius: 6mm;
+    width: 75mm;
+   
+}
+div  .card66 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 79.4mm;
+}
+.card-title12{
+    font-weight: 900;
+    font-size: 6.5mm;
+}
+div #timelevel7{
+    background-color: rgb(166, 211, 230);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel6{
+    background-color: rgb(236, 191, 183);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel5{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel4{
+    background-color: rgb(154, 208, 231);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel3{
+    background-color: rgb(150, 203, 226);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel2{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm; 
+}
+#timelevel22{
+    background-color: rgb(243, 239, 239);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 3.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 28mm;
+}
+div #timer{
+    height: 4mm;
+    width: 4mm;
+}
+.cardwave3{
+    margin-top: -20mm;
+    height: 25mm; 
+    fill: #dbd7d7;
+}
+.lastpage{
+    margin-top: -40px;
+}
+div .ft{
+font-size: 4.4mm;
+}
+/*slider*/
+
+
+ .footericons svg{
+           height: 60px;
+           width: 30px;
+           margin-left: 6.5mm;
+       }
+       .text-center img{
+           margin-left: 5mm;
+       }
+       .footer-logo img{
+           margin-left: -2mm;
+           height: 14mm;
+           width: 15mm;
+       }
+       div .btn5{
+           margin-left: 30px;
+       }
+      div .btn7{
+        margin-left: 10px;
+       }
+
+}
+@media only screen and (min-width: 768px){   /*md*/
+ 
+   div .card1{
+        border-radius: 6mm;
+        width: 75mm;  
+    }
+      .card1 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card2{
+        border-radius: 6mm;
+        width: 75mm;
+      
+        
+    }
+    .card2 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card3{
+        border-radius: 8mm;
+        width: 75.1mm;
+        margin-top: -1mm;
+    }
+    .card3 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79mm;
+    }
+    div .card4{
+        border-radius: 6mm;
+        width: 75mm;
+        margin-top: 5mm;
+        
+      
+    }
+    .card4 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+        
+        
+    }
+    div .card5{
+        border-radius: 6mm;
+        width: 75mm;
+        margin-top: 5mm;
+    }
+    .card5 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card6{
+        border-radius: 6mm;
+        width: 75mm;
+        margin-top: 5mm;
+        
+    }
+    .card6 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .cardwave1{
+        margin-top: -20mm;
+        height: 25mm; 
+    }
+    div .cardwave2{
+        margin-top: -6mm;
+    }
+    .card-title{
+        font-weight: 700;
+        font-size: 4.7mm;
+        font-family: sans-serif;
+    }
+    div .card-title1{
+        font-weight: 700;
+        font-size: 4.3mm;
+        font-family: sans-serif;
+    }
+    .card-title2{
+        font-weight: 700;
+        font-size: 5mm;
+        font-family: sans-serif;
+    }
+    div .card-text{
+        font-family: sans-serif;
+        font-size: 3.8mm;
+        opacity: 0.6;
+    }
+    div .card-text2{
+        font-family: sans-serif;
+        font-size: 4mm;
+        opacity: 0.6;
+    }
+    #timer{
+        height: 6.5mm;
+        width: 10mm;
+    }
+    div #timelevel{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    div #timelevel1{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    div #timelevel22{
+        background-color: rgb(243, 239, 239);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    .cardfinish{
+        margin-top: -3mm;
+    }
+
+    /*slider*/
+   div .card11{
+        border-radius: 6mm;
+        width: 75mm;
+     
+    }
+    div  .card11 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card-title12{
+        font-size: 4mm;
+    }
+    
+    div .card22{
+        border-radius: 6mm;
+        width: 75mm;
+        height: 101mm;
+        
+    }
+    div .card22 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div  .card33{
+        border-radius: 6mm;
+        width: 75mm;
+        
+    }
+    div .card33 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card44{
+        border-radius: 6mm;
+        width: 75mm;
+      
+    }
+    div .card44 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div  .card55{
+        border-radius: 6mm;
+        width: 75mm;
+       
+    }
+    div .card55 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card66{
+        border-radius: 6mm;
+        width: 75mm;
+       
+    }
+    div  .card66 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    .card-title12{
+        font-weight: 900;
+        font-size: 6.5mm;
+    }
+   div #timelevel7{
+        background-color: rgb(166, 211, 230);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel6{
+        background-color: rgb(236, 191, 183);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel5{
+        background-color: rgb(243, 215, 215);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel4{
+        background-color: rgb(154, 208, 231);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel3{
+        background-color: rgb(150, 203, 226);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel2{
+        background-color: rgb(243, 215, 215);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel22{
+        background-color: rgb(243, 239, 239);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    div #timer{
+        height: 6.5mm;
+        width: 10mm;
+    }
+    .cardwave3{
+        margin-top: -20mm;
+        height: 25mm; 
+        fill: #dbd7d7;
+    }
+    .lastpage{
+        margin-top: -40px;
+    }
+div .ft{
+    font-size: 4.4mm;
+}
+/*slider*/
+/* 
+   div .download .img1{
+        height: 12mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -177mm;
+        margin-top: 100px;
+       
+    }
+    div .download .img2{
+     height: 29mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: 5mm;
+    margin-top: 70px;
+    } */
+    /* div .godownbtn{
+        margin-left: -50mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 720px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+    div .topcontent{
+        font-size: 45px;
+    }
+    div .topcontent1{
+        font-size: 45px;
+    }
+    .list1 svg{
+   
+        width: 10mm;
+        height: 7mm;
+        
+       }
+       .list svg{
+        width: 10mm;
+        height: 7mm;
+        
+       
+       }
+
+     div  .footer-widget li a{
+           font-size: 4mm;
+       }
+ .footericons svg{
+           height: 60px;
+           width: 30px;
+           margin-left: 10mm;
+       }
+       .text-center img{
+           margin-left: 5mm;
+       }
+       .footer-logo img{
+           margin-left: -2mm;
+       }
+      div .btn5{
+           margin-left: -10px;
+       }
+      div .btn7{
+        margin-left: -30px;
+       }
+
+}
+
+@media only screen and (min-width: 992px){ /*lg*/
+    /* div .download .img1{
+        height: 12mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -217mm;
+        margin-top: 75px;
+       
+    }
+   div .download .img2{
+     height: 30mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: 7mm;
+    margin-top: 50px;
+    } */
+    /* div .godownbtn{
+        margin-left: -28mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 720px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+    div .topcontent{
+        font-size: 55px;
+    }
+    div .topcontent1{
+        font-size: 55px;
+    }
+    .list1 svg{
+   
+        width: 10mm;
+        height: 7mm;
+        
+       }
+       .list svg{
+        width: 10mm;
+        height: 7mm;
+        
+       
+       }
+
+       div .card1{
+        border-radius: 6mm;
+        width: 75mm;  
+    }
+      .card1 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card2{
+        border-radius: 6mm;
+        width: 75mm;
+      
+        
+    }
+    .card2 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card3{
+        border-radius: 8mm;
+        width: 75.1mm;
+        margin-top: -1mm;
+    }
+    .card3 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79mm;
+    }
+    div .card4{
+        border-radius: 6mm;
+        width: 75mm;
+        margin-top: 5mm;
+        
+      
+    }
+    .card4 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+        
+        
+    }
+    div .card5{
+        border-radius: 6mm;
+        width: 75mm;
+        margin-top: 5mm;
+    }
+    .card5 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card6{
+        border-radius: 6mm;
+        width: 75mm;
+        margin-top: 5mm;
+        
+    }
+    .card6 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .cardwave1{
+        margin-top: -20mm;
+        height: 25mm; 
+    }
+    div .cardwave2{
+        margin-top: -6mm;
+    }
+    .card-title{
+        font-weight: 700;
+        font-size: 4.7mm;
+        font-family: sans-serif;
+    }
+    div .card-title1{
+        font-weight: 700;
+        font-size: 4.3mm;
+        font-family: sans-serif;
+    }
+    .card-title2{
+        font-weight: 700;
+        font-size: 5mm;
+        font-family: sans-serif;
+    }
+    div .card-text{
+        font-family: sans-serif;
+        font-size: 3.8mm;
+        opacity: 0.6;
+    }
+    div .card-text2{
+        font-family: sans-serif;
+        font-size: 4mm;
+        opacity: 0.6;
+    }
+    #timer{
+        height: 6.5mm;
+        width: 10mm;
+    }
+    div #timelevel{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    div #timelevel1{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    div #timelevel22{
+        background-color: rgb(243, 239, 239);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    .cardfinish{
+        margin-top: -3mm;
+    }
+
+    /*slider*/
+   div .card11{
+        border-radius: 6mm;
+        width: 75mm;
+     
+    }
+    div  .card11 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card-title12{
+        font-size: 4mm;
+    }
+    
+    div .card22{
+        border-radius: 6mm;
+        width: 75mm;
+        height: 101mm;
+        
+    }
+    div .card22 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div  .card33{
+        border-radius: 6mm;
+        width: 75mm;
+        
+    }
+    div .card33 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card44{
+        border-radius: 6mm;
+        width: 75mm;
+      
+    }
+    div .card44 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div  .card55{
+        border-radius: 6mm;
+        width: 75mm;
+       
+    }
+    div .card55 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    div .card66{
+        border-radius: 6mm;
+        width: 75mm;
+       
+    }
+    div  .card66 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 79.4mm;
+    }
+    .card-title12{
+        font-weight: 900;
+        font-size: 6.5mm;
+    }
+   div #timelevel7{
+        background-color: rgb(166, 211, 230);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel6{
+        background-color: rgb(236, 191, 183);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel5{
+        background-color: rgb(243, 215, 215);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel4{
+        background-color: rgb(154, 208, 231);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel3{
+        background-color: rgb(150, 203, 226);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel2{
+        background-color: rgb(243, 215, 215);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm; 
+    }
+    #timelevel22{
+        background-color: rgb(243, 239, 239);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 3.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 28mm;
+    }
+    div #timer{
+        height: 6.5mm;
+        width: 10mm;
+    }
+    .cardwave3{
+        margin-top: -20mm;
+        height: 25mm; 
+        fill: #dbd7d7;
+    }
+    .lastpage{
+        margin-top: -40px;
+    }
+div .ft{
+    font-size: 4.4mm;
+}
+/*slider*/   
+ .footericons svg{
+           height: 60px;
+           width: 30px;
+           margin-left: 10mm;
+       }
+       .text-center img{
+           margin-left: 5mm;
+       }
+       .footer-logo img{
+           margin-left: -2mm;
+       }
+       .btn5{
+           margin-left: 2px;
+       }
+      div .btnn{
+        margin-left: 60px;
+       }
+
+}
+@media only screen and (min-width: 1200px){
+    /* .download .img1{
+        height: 12mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: 13mm;
+        margin-top: 20px;
+       
+    }
+    .download .img2{
+     height: 26mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: 13mm;
+    margin-top: 38px;
+    } */
+    /* .godownbtn{
+        margin-left: 10mm;
+  
+        width: 100px;
+        height: 90px;
+        top: 730px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+
+    div .topcontent{
+        font-size: 50px;
+    }
+    div .topcontent1{
+        font-size: 50px;
+    }
+    .list1 svg{
+   
+        width: 10mm;
+        height: 7mm;
+        
+       }
+       .list svg{
+        width: 10mm;
+        height: 7mm;
+        
+       
+       }
+
+      div .card1{
+        border-radius: 6mm;
+        width: 90mm;  
+    }
+    div .card1 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div .card2{
+        border-radius: 6mm;
+        width: 89.5mm;
+      
+        
+    }
+    div .card2 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div .card3{
+        border-radius: 8mm;
+        width: 89.5mm;
+        margin-top: -1mm;
+    }
+    div .card3 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89mm;
+    }
+    div .card4{
+        border-radius: 6mm;
+        width: 90mm;
+        margin-top: 5mm;
+        
+      
+    }
+    div .card4 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+        
+        
+    }
+    div .card5{
+        border-radius: 6mm;
+        width: 90mm;
+        margin-top: 5mm;
+    }
+    div .card5 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div  .card6{
+        border-radius: 6mm;
+        width: 90mm;
+        margin-top: 5mm;
+        
+    }
+    div  .card6 img{
+        border-top-left-radius: 6mm;
+        border-top-right-radius: 6mm;
+        width: 89.4mm;
+    }
+    div  .cardwave1{
+        margin-top: -20mm;
+        height: 25mm; 
+    }
+    div .cardwave2{
+        margin-top: -10mm;
+    }
+    div .card-title{
+        font-weight: 700;
+        font-size: 4.7mm;
+        font-family: sans-serif;
+    }
+    div .card-title1{
+        font-weight: 700;
+        font-size: 4.5mm;
+        font-family: sans-serif;
+    }
+    div  .card-title2{
+        font-weight: 700;
+        font-size: 5mm;
+        font-family: sans-serif;
+    }
+    div .card-text{
+        font-family: sans-serif;
+        font-size: 4.7mm;
+        opacity: 0.6;
+    }
+    div .card-text2{
+        font-family: sans-serif;
+        font-size: 4mm;
+        opacity: 0.6;
+    }
+    div  #timer{
+        height: 6.5mm;
+        width: 10mm;
+    }
+    div  #timelevel{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 37mm;
+    }
+    div #timelevel1{
+        background-color: rgb(243, 174, 141);
+        border: none;
+        color: rgb(0, 0, 0);
+        font-size: 4.5mm;
+        font-weight: 500;
+        opacity: 0.7;
+        border-radius: 1mm;
+        height: 8mm;
+        width: 37mm;
+    }
+    div .cardfinish{
+        margin-top: -3mm;
+    }
+    .cardgap{
+        margin-left: 40px;
+    }
+
+    /*slider*/
+#last{
+    margin-top: -10mm;
+    margin-left: 45mm;
+}
+div .card11{
+    border-radius: 6mm;
+    width: 90mm;
+ 
+}
+div .card11 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card-title12{
+    font-size: 4mm;
+}
+
+div .card22{
+    border-radius: 6mm;
+    width: 90mm;
+    height: 112mm;
+    
+}
+div .card22 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card33{
+    border-radius: 6mm;
+    width: 90mm;
+    
+}
+div .card33 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card44{
+    border-radius: 6mm;
+    width: 90mm;
+  
+}
+div .card44 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card55{
+    border-radius: 6mm;
+    width: 90mm;
+   
+}
+div .card55 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card66{
+    border-radius: 6mm;
+    width: 90mm;
+   
+}
+div .card66 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card-title12{
+    font-weight: 900;
+    font-size: 6.5mm;
+}
+div #timelevel7{
+    background-color: rgb(166, 211, 230);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel6{
+    background-color: rgb(236, 191, 183);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel5{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel4{
+    background-color: rgb(154, 208, 231);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+#timelevel3{
+    background-color: rgb(150, 203, 226);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+ #timelevel2{
+    background-color: rgb(243, 215, 215);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm; 
+}
+/*slider*/
+ .footericons svg{
+           height: 80px;
+           width: 40px;
+           margin-left: 20mm;
+       }
+       .text-center img{
+           margin-left: 12mm;
+           margin-top: 5mm;
+       }
+       .footer-logo img{
+           
+           height: 10mm;
+           width: 20mm;
+       }
+      div .btn5{
+           margin-left: -20px;
+       }
+      div .btn7{
+        margin-left: -30px;
+       }
+
+}
+
+@media  only screen and (width: 896px){
+    #topbg img{
+        height: 15mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3mm;
+       }
+       
+       #ratings svg{
+        height: 3mm;
+       }
+       #ratings img{
+        height: 15mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 35px;
+             margin-top: -3mm;
+         }
+         div .topcontent1{
+             font-size: 35px;
+         }
+         .list1{
+           font-size: 3.5mm;
+        }
+        .list{
+            font-size: 3.5mm;
+         }
+         .list1 svg{
+        
+             width: 5mm;
+             height: 5mm;
+             
+            }
+            .list svg{
+      
+                width: 5mm;
+                height: 5mm;
+            }
+            div .download .img1{
+                height: 10mm;
+                width: 30mm;
+                position: absolute;
+                margin-left: 600px;
+                margin-top: -60px;
+               
+            }
+            div .download .img2{
+             height: 25mm;
+             width: 30mm;
+             position: absolute;
+        margin-left: 600px;
+        margin-top: -50px;
+            }
+            .btn4{
+             width: 30mm;
+             height: 10mm;
+             margin-left: 30px;
+             font-size: 3mm;
+             margin-top: -4mm;
+        
+            }
+}
+@media  only screen and (width: 844px){
+    #topbg img{
+        height: 15mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3mm;
+       }
+       
+       #ratings svg{
+        height: 3mm;
+       }
+       #ratings img{
+        height: 15mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 35px;
+             margin-top: -3mm;
+         }
+         div .topcontent1{
+             font-size: 35px;
+         }
+         .list1{
+           font-size: 3.5mm;
+        }
+        .list{
+            font-size: 3.5mm;
+         }
+         .list1 svg{
+        
+             width: 5mm;
+             height: 5mm;
+             
+            }
+            .list svg{
+      
+                width: 5mm;
+                height: 5mm;
+            }
+            div .download .img1{
+                height: 10mm;
+                width: 30mm;
+                position: absolute;
+                margin-left: 600px;
+                margin-top: -60px;
+               
+            }
+            div .download .img2{
+             height: 25mm;
+             width: 30mm;
+             position: absolute;
+        margin-left: 600px;
+        margin-top: -50px;
+            }
+            .btn4{
+             width: 30mm;
+             height: 10mm;
+             margin-left: 30px;
+             font-size: 3mm;
+             margin-top: -4mm;
+        
+            }
+}
+@media  only screen and (width: 851px){
+    #topbg img{
+        height: 15mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3mm;
+       }
+       
+       #ratings svg{
+        height: 3mm;
+       }
+       #ratings img{
+        height: 15mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 35px;
+             margin-top: -3mm;
+         }
+         div .topcontent1{
+             font-size: 35px;
+         }
+         .list1{
+           font-size: 3.5mm;
+        }
+        .list{
+            font-size: 3.5mm;
+         }
+         .list1 svg{
+        
+             width: 5mm;
+             height: 5mm;
+             
+            }
+            .list svg{
+      
+                width: 5mm;
+                height: 5mm;
+            }
+            div .download .img1{
+                height: 10mm;
+                width: 30mm;
+                position: absolute;
+                margin-left: 600px;
+                margin-top: -60px;
+               
+            }
+            div .download .img2{
+             height: 25mm;
+             width: 30mm;
+             position: absolute;
+        margin-left: 600px;
+        margin-top: -50px;
+            }
+            .btn4{
+             width: 30mm;
+             height: 10mm;
+             margin-left: 30px;
+             font-size: 3mm;
+             margin-top: -4mm;
+        
+            }
+}
+@media  only screen and (width: 915px){
+    #topbg img{
+        height: 15mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3mm;
+       }
+       
+       #ratings svg{
+        height: 3mm;
+       }
+       #ratings img{
+        height: 15mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 35px;
+             margin-top: -3mm;
+         }
+         div .topcontent1{
+             font-size: 35px;
+         }
+         .list1{
+           font-size: 3.5mm;
+        }
+        .list{
+            font-size: 3.5mm;
+         }
+         .list1 svg{
+        
+             width: 5mm;
+             height: 5mm;
+             
+            }
+            .list svg{
+      
+                width: 5mm;
+                height: 5mm;
+            }
+            div .download .img1{
+                height: 10mm;
+                width: 30mm;
+                position: absolute;
+                margin-left: 600px;
+                margin-top: -60px;
+               
+            }
+            div .download .img2{
+             height: 25mm;
+             width: 30mm;
+             position: absolute;
+        margin-left: 600px;
+        margin-top: -50px;
+            }
+            .btn4{
+             width: 30mm;
+             height: 10mm;
+             margin-left: 30px;
+             font-size: 3mm;
+             margin-top: -4mm;
+        
+            }
+}
+@media  only screen and (width: 740px){
+    #topbg img{
+        height: 15mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3mm;
+       }
+       
+       #ratings svg{
+        height: 3mm;
+       }
+       #ratings img{
+        height: 15mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 35px;
+             margin-top: -3mm;
+         }
+         div .topcontent1{
+             font-size: 35px;
+         }
+         .list1{
+           font-size: 3.5mm;
+        }
+        .list{
+            font-size: 3.5mm;
+         }
+         .list1 svg{
+        
+             width: 5mm;
+             height: 5mm;
+             
+            }
+            .list svg{
+      
+                width: 5mm;
+                height: 5mm;
+            }
+            div .download .img1{
+                height: 10mm;
+                width: 30mm;
+                position: absolute;
+                margin-left: 450px;
+                margin-top: -70px;
+               
+            }
+            div .download .img2{
+             height: 25mm;
+             width: 30mm;
+             position: absolute;
+        margin-left: 450px;
+        margin-top: -60px;
+            }
+            .btn4{
+             width: 30mm;
+             height: 10mm;
+             margin-left: 30px;
+             font-size: 3mm;
+             margin-top: -4mm;
+        
+            }
+}
+@media  only screen and (width: 667px){
+    #topbg img{
+        height: 15mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3mm;
+       }
+       
+       #ratings svg{
+        height: 3mm;
+       }
+       #ratings img{
+        height: 15mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.2mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 35px;
+             margin-top: -3mm;
+         }
+         div .topcontent1{
+             font-size: 35px;
+         }
+         .list1{
+           font-size: 3.5mm;
+        }
+        .list{
+            font-size: 3.5mm;
+         }
+         .list1 svg{
+        
+             width: 5mm;
+             height: 5mm;
+             
+            }
+            .list svg{
+      
+                width: 5mm;
+                height: 5mm;
+            }
+            div .download .img1{
+                height: 10mm;
+                width: 30mm;
+                position: absolute;
+                margin-left: 400px;
+                margin-top: -60px;
+               
+            }
+            div .download .img2{
+             height: 25mm;
+             width: 30mm;
+             position: absolute;
+        margin-left: 400px;
+        margin-top: -50px;
+            }
+            .btn4{
+             width: 30mm;
+             height: 10mm;
+             margin-left: 30px;
+             font-size: 3mm;
+             margin-top: -4mm;
+        
+            }
+}
+@media only screen and (width:414px){
+    div .download .img1{
+        height: 10mm;
+        width: 30mm;
+        position: absolute;
+   margin-top: 300px;
+   margin-left: -10px;
+    }
+    div .download .img2{
+     height: 28mm;
+     width: 30mm;
+     position: absolute;
+     margin-top: 270px;
+     margin-left: 250px;
+
+    }
+}
+@media  only screen and (width: 912px){
+    
+    
+    #topbg img{
+        height: 20mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 3mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3.8mm;
+       }
+       
+       #ratings svg{
+        height: 3.8mm;
+       }
+       #ratings img{
+        height: 20mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 3mm;
+        margin-top: 3mm;
+       }
+
+         div .topcontent{
+             font-size: 45px;
+         }
+         div .topcontent1{
+             font-size: 45px;
+         }
+         .list1{
+           font-size: 4mm;
+        }
+        .list{
+            font-size: 4mm;
+         }
+         .list1 svg{
+        
+             width: 7mm;
+             height: 7mm;
+             
+            }
+            .list svg{
+      
+                width: 7mm;
+                height: 7mm;
+                
+            
+            }
+            .firstpage{
+               
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
+                position: relative;
+                height: 90vh;
+                width: 100%;
+            }
+            div .download .img1{
+                height: 20mm;
+                width: 60mm;
+                position: absolute;
+               
+               
+            }
+            div .download .img2{
+             height: 54mm;
+             width: 60mm;
+             position: absolute;
+        
+            }
+            .btn4{
+     
+             width: 70mm;
+             height: 16mm;
+             margin-left: 30px;
+             font-size: 6mm;
+        
+            }
+     } 
+/* 
+     @media only screen and (min-width: 720px){
+        #topbg img{
+            height: 20mm;
+           }
+           #topbg .rewa{
+           
+            color: rgb(55, 177, 116);
+            font-size: 2mm;
+            margin-top: 3mm;
+           }
+           #topbg svg{
+            height: 3.8mm;
+           }
+           
+           #ratings svg{
+            height: 3.8mm;
+           }
+           #ratings img{
+            height: 20mm;
+           }
+           #ratings .rate{
+           
+            color: rgb(55, 177, 116);
+            font-size: 2mm;
+            margin-top: 3mm;
+           }
+        div .download .img1{
+             height: 13mm;
+             width: 40mm;
+             position: absolute;
+           
+         }
+         div .download .img2{
+          height: 30mm;
+          width: 40mm;
+          position: absolute;
+          margin-left: 400px;
+          margin-top: -20px;
+    
+         }
+         div .topcontent{
+            font-size: 35px;
+        }
+        div .topcontent1{
+            font-size: 35px;
+        }
+        .list1{
+          font-size: 5mm;
+       }
+       .list{
+           font-size: 5mm;
+        }
+        .list1 svg{
+       
+            width: 8mm;
+            height: 7mm;
+            
+           }
+           .list svg{
+     
+            width: 8mm;
+            height: 7mm;
+           
+           }
+        } */

@@ -1,0 +1,782 @@
+.card1{
+    border-radius: 6mm;
+    width: 90mm;  
+}
+.card1 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card2{
+    border-radius: 6mm;
+    width: 90mm;
+  
+    
+}
+.card2 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card3{
+    border-radius: 8mm;
+    width: 89.5mm;
+    margin-top: -1mm;
+}
+.card3 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89mm;
+}
+.card4{
+    border-radius: 6mm;
+    width: 90mm;
+    margin-top: 5mm;
+    
+  
+}
+.card4 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+    
+    
+}
+.card5{
+    border-radius: 6mm;
+    width: 90mm;
+    margin-top: 5mm;
+}
+.card5 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card6{
+    border-radius: 6mm;
+    width: 90mm;
+    margin-top: 5mm;
+    
+}
+.card6 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.cardwave1{
+    margin-top: -20mm;
+    height: 25mm; 
+}
+.cardwave2{
+    margin-top: -10mm;
+}
+.card-title{
+    font-weight: 700;
+    font-size: 4.7mm;
+    font-family: sans-serif;
+}
+.card-title1{
+    font-weight: 700;
+    font-size: 4.5mm;
+    font-family: sans-serif;
+}
+.card-title2{
+    font-weight: 700;
+    font-size: 5mm;
+    font-family: sans-serif;
+}
+.card-text{
+    font-family: sans-serif;
+    font-size: 4.7mm;
+    opacity: 0.6;
+}
+.card-text2{
+    font-family: sans-serif;
+    font-size: 4mm;
+    opacity: 0.6;
+}
+#timer{
+    height: 6.5mm;
+    width: 10mm;
+}
+#timelevel{
+    background-color: rgb(243, 174, 141);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm;
+}
+#timelevel1{
+    background-color: rgb(243, 174, 141);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 4.5mm;
+    font-weight: 500;
+    opacity: 0.7;
+    border-radius: 1mm;
+    height: 8mm;
+    width: 37mm;
+}
+.cardfinish{
+    margin-top: -3mm;
+}
+
+/*slider*/
+#last{
+    margin-top: -10mm;
+    margin-left: 45mm;
+}
+.card11{
+    border-radius: 6mm;
+    width: 90mm;
+ 
+}
+.card11 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+div .card-title12{
+    font-size: 4mm;
+}
+
+.card22{
+    border-radius: 6mm;
+    width: 90mm;
+    height: 114mm;
+    
+}
+.card22 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card33{
+    border-radius: 6mm;
+    width: 90mm;
+    
+}
+.card33 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card44{
+    border-radius: 6mm;
+    width: 90mm;
+  
+}
+.card44 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card55{
+    border-radius: 6mm;
+    width: 90mm;
+   
+}
+.card55 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card66{
+    border-radius: 6mm;
+    width: 90mm;
+   
+}
+.card66 img{
+    border-top-left-radius: 6mm;
+    border-top-right-radius: 6mm;
+    width: 89.4mm;
+}
+.card-title12{
+    font-weight: 900;
+    font-size: 6.5mm;
+}
+
+/*slider*/
+
+@media only screen and (max-width: 1280px){
+    /* .download .img1{
+        height: 13mm;
+        width: 50mm;
+        position: absolute;
+        margin-left: -253mm;
+        margin-top: 180px;
+       
+    }
+    .download .img2{
+     height: 33mm;
+     width: 51mm;
+     position: absolute;
+    margin-left: -253mm;
+    margin-top: 218px;
+    } */
+    /* .godownbtn{
+        margin-left: 10mm;
+  
+        width: 100px;
+        height: 90px;
+        top: 940px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+}
+@media only screen and (max-width: 1024px){
+    /* .download .img1{
+        height: 13mm;
+        width: 50mm;
+        position: absolute;
+        margin-left: -213mm;
+        margin-top: 80px;
+       
+    }
+    .download .img2{
+     height: 33mm;
+     width: 51mm;
+     position: absolute;
+    margin-left: -13mm;
+    margin-top: 58px;
+    } */
+    /* .godownbtn{
+        margin-left: -30mm;
+  
+        width: 100px;
+        height: 90px;
+        top: 700px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+}
+/*media Query*/
+/* @media only screen and (min-width: 414px){
+    
+    .download .img1{
+        height: 15mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -90mm;
+        margin-top: 450px;
+       
+    }
+    .download .img2{
+     height: 40mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: -28mm;
+    margin-top: 409px;
+    }
+    div .godownbtn{
+        margin-left: -115mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 1060px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+} */
+/* @media only screen and (min-width: 1024px){
+    
+    .download .img1{
+        height: 15mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -210mm;
+        margin-top: 70px;
+       
+    }
+    .download .img2{
+     height: 40mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: -10mm;
+    margin-top: 40px;
+    }
+    div .godownbtn{
+        margin-left: -35mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 680px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+} */
+@media only screen and (min-width: 1280px){
+    
+   /* div .download .img1{
+        height: 16mm;
+        width: 50mm;
+        position: absolute;
+        margin-left: 10mm;
+        margin-top: -20px;
+       
+    }
+    div .download .img2{
+     height: 42mm;
+     width: 51mm;
+     position: absolute;
+    margin-left:  10mm;
+    margin-top: -10px;
+    } */
+    /* div .godownbtn{
+        margin-left: -5mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 700px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    } */
+} 
+
+/* @media only screen and (min-width: 412px){
+    
+    .download .img1{
+        height: 15mm;
+        width: 40mm;
+        position: absolute;
+        margin-left: -90mm;
+        margin-top: 450px;
+       
+    }
+    .download .img2{
+     height: 40mm;
+     width: 41mm;
+     position: absolute;
+    margin-left: -28mm;
+    margin-top: 409px;
+    }
+    div .godownbtn{
+        margin-left: -115mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 1070px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+} */
+
+/* @media only screen and (min-width: 914px){
+    .download .img1{
+        height: 10.3mm;
+        width: 38mm;
+        position: absolute;
+        margin-left: 10mm;
+        margin-top: -100px;
+       
+    }
+    .download .img2{
+     height: 24mm;
+     width: 38.6mm;
+     position: absolute;
+    margin-left: 10mm;
+    margin-top: -90px;
+    }
+    div .godownbtn{
+        margin-left: -50mm;
+  
+        width: 90px;
+        height: 85px;
+        margin-top: -610px;
+        opacity: 0.7;
+  
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+    #topbg img{
+        height: 17mm;
+       }
+       #topbg .rewa{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.5mm;
+        margin-top: 3mm;
+       }
+       #topbg svg{
+        height: 3.5mm;
+       }
+       
+       #ratings svg{
+        height: 3.5mm;
+       }
+       #ratings img{
+        height: 17mm;
+       }
+       #ratings .rate{
+       
+        color: rgb(55, 177, 116);
+        font-size: 2.5mm;
+        margin-top: 3mm;
+       }
+    div .topcontent{
+        font-size: 45px;
+        margin-top: -3mm;
+    }
+    div .topcontent1{
+        font-size: 45px;
+    }
+
+    .list1 svg{
+   
+        width: 7mm;
+        height: 6mm;
+        
+       }
+       .list svg{
+        width: 7mm;
+        height: 6mm;
+       }
+       .btn4{
+        width: 35mm;
+        height: 10mm;
+        font-size: 4mm;
+        margin-top: 1mm;
+   
+       }
+} */
+/*
+@media only screen and (min-width: 820px){
+    
+   div .download .img1{
+        height: 20mm;
+        width: 60mm;
+        position: absolute;
+        margin-left: -170mm;
+        margin-top: 470px;
+       
+    }
+    div .download .img2{
+     height: 54mm;
+     width: 60mm;
+     position: absolute;
+    margin-left: -28mm;
+    margin-top: 420px;
+    }
+    div .godownbtn{
+        margin-left: -65mm;
+  
+        width: 90px;
+        height: 85px;
+        top: 1400px;
+        opacity: 0.7;
+   
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+    div .topcontent{
+        font-size: 55px;
+    }
+    div .topcontent1{
+        font-size: 55px;
+    }
+   div .list1 svg{
+   
+        width: 10mm;
+        height: 10mm;
+        
+       }
+       .list svg{
+ 
+        width: 10mm;
+        height: 10mm;
+       
+       }
+     div  .btn4{
+
+        width: 50mm;
+        height: 16mm;
+   
+       }
+}
+@media only screen and (min-width: 768px){
+    
+    div .download .img1{
+         height: 20mm;
+         width: 60mm;
+         position: absolute;
+         margin-left: -170mm;
+         margin-top: 470px;
+        
+     }
+     div .download .img2{
+      height: 54mm;
+      width: 60mm;
+      position: absolute;
+     margin-left: -28mm;
+     margin-top: 415px;
+     }
+     div .godownbtn{
+         margin-left: -65mm;
+   
+         width: 90px;
+         height: 85px;
+         top: 1220px;
+         opacity: 0.7;
+    
+         border-radius: 0mm;
+         color: rgb(56, 54, 54);
+         text-decoration: none;
+         line-height: 88px;
+  
+     }
+     div .topcontent{
+         font-size: 55px;
+     }
+     div .topcontent1{
+         font-size: 55px;
+     }
+     .list1{
+       font-size: 6mm;
+    }
+    .list{
+        font-size: 6mm;
+     }
+     .list1 svg{
+    
+         width: 10mm;
+         height: 10mm;
+         
+        }
+        .list svg{
+  
+         width: 10mm;
+         height: 10mm;
+        
+        }
+        .btn4{
+ 
+         width: 50mm;
+         height: 16mm;
+    
+        }
+  }
+  
+ @media only screen and (min-width: 912px){
+    
+    
+#topbg img{
+    height: 25mm;
+   }
+   #topbg .rewa{
+   
+    color: rgb(55, 177, 116);
+    font-size: 3mm;
+    margin-top: 3mm;
+   }
+   #topbg svg{
+    height: 3.8mm;
+   }
+   
+   #ratings svg{
+    height: 3.8mm;
+   }
+   #ratings img{
+    height: 24mm;
+   }
+   #ratings .rate{
+   
+    color: rgb(55, 177, 116);
+    font-size: 3mm;
+    margin-top: 3mm;
+   }
+
+    div .download .img1{
+         height: 20mm;
+         width: 60mm;
+         position: absolute;
+         margin-left: -170mm;
+         margin-top: 770px;
+        
+     }
+     div .download .img2{
+      height: 54mm;
+      width: 60mm;
+      position: absolute;
+     margin-left: -22mm;
+     margin-top: 712px;
+     }
+     div .godownbtn{
+         margin-left: -55mm;
+   
+         width: 120px;
+         height: 105px;
+         top: 1620px;
+         opacity: 0.7;
+    
+         border-radius: 0mm;
+         color: rgb(56, 54, 54);
+         text-decoration: none;
+         line-height: 100px;
+  
+     }
+     div .topcontent{
+         font-size: 65px;
+     }
+     div .topcontent1{
+         font-size: 65px;
+     }
+     .list1{
+       font-size: 6mm;
+    }
+    .list{
+        font-size: 6mm;
+     }
+     .list1 svg{
+    
+         width: 10mm;
+         height: 10mm;
+         
+        }
+        .list svg{
+  
+         width: 10mm;
+         height: 10mm;
+        
+        }
+        .btn4{
+ 
+         width: 70mm;
+         height: 16mm;
+         margin-left: 30px;
+         font-size: 6mm;
+    
+        }
+ } 
+ @media only screen and (min-width: 540px){
+    div .topcontent{
+        font-size: 55px;
+    }
+    div .topcontent1{
+        font-size: 55px;
+    }
+    div .list1{
+      font-size: 5mm;
+   }
+   div .list{
+       font-size: 5mm;
+    }
+   div .list1 svg{
+   
+        width: 9mm;
+        height: 8mm;
+        
+       }
+    div   .list svg{
+        width: 9mm;
+        height: 8mm;
+       
+       }
+     div  .btn4{
+
+        width: 50mm;
+        height: 13mm;
+        margin-left: 30px;
+        font-size: 4.5mm;
+   
+       }
+    div .download .img1{
+        height: 16mm;
+        width: 50mm;
+        position: absolute;
+        margin-left: -10mm;
+        margin-top: 10px;
+       
+    }
+  div  .download .img2{
+     height: 40mm;
+     width: 50mm;
+     position: absolute;
+    margin-left: -10mm;
+    margin-top: 19px;
+    }
+  div  .godownbtn{
+        margin-left: -20mm;
+        width: 90px;
+        height: 85px;
+        top: 730px;
+        opacity: 0.7;
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+    div .card{
+        margin-left: 80px;
+    }
+ }
+@media only screen and (min-width: 390px){
+    
+    .download .img1{
+        height: 15mm;
+        width: 60mm;
+        position: absolute;
+        margin-left: -80mm;
+        margin-top: 350px;
+       
+    }
+    .download .img2{
+     height: 40mm;
+     width: 60mm;
+     position: absolute;
+    margin-left: -80mm;
+    margin-top: 369px;
+    }
+    .godownbtn{
+        margin-left: -119mm;
+        width: 90px;
+        height: 85px;
+        top: 990px;
+        opacity: 0.7;
+        border-radius: 0mm;
+        color: rgb(56, 54, 54);
+        text-decoration: none;
+        line-height: 88px;
+ 
+    }
+} */
